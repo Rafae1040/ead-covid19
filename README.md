@@ -22,7 +22,7 @@ Pandas e NumPy: Bibliotecas em Python utilizadas para manipulação e análise d
 
 GitHub: Repositório utilizado para armazenar e compartilhar o código-fonte e os dados do projeto.
 
-## Dashboard Disponível
+## Dashboard Disponível:
 
 O dashboard pode ser acessado através do Google Data Studio ([link](https://lookerstudio.google.com/s/m9-TQYmf7N0)).
 
