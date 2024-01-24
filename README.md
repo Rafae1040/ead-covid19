@@ -20,7 +20,6 @@ Kaggle Notebook: Empregado no processamento inicial dos dados de casos, possibil
 
 Pandas e NumPy: Bibliotecas em Python utilizadas para manipulação e análise de dados, incluindo limpeza, transformação e organização.
 
-GitHub: Repositório utilizado para armazenar e compartilhar o código-fonte e os dados do projeto.
 
 ## Dashboard Disponível:
 
